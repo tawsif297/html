@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #f0f8ff;
+  }
+  
+  header {
+    text-align: center;
+    background: #0077cc;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .lesson-card {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+  }
